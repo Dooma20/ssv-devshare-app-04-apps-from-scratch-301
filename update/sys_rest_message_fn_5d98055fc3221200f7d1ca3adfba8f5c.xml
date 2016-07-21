@@ -11,7 +11,7 @@
         <oauth2_profile/>
         <protocol_name/>
         <rest_endpoint>http://api.openweathermap.org/data/2.5/weather</rest_endpoint>
-        <rest_message display_value="Weather">aa48c15fc3221200f7d1ca3adfba8ff4</rest_message>
+        <rest_message display_value="Weather_OBSOLETE">aa48c15fc3221200f7d1ca3adfba8ff4</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-08 03:54:44</sys_created_on>
